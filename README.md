@@ -1,11 +1,6 @@
-## Hi there 👋
+## Hi, I am Shubham Agarwal 👋
 
-<!--
-**ShubhamAgarwal1616/ShubhamAgarwal1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Kotlin, React Js and Next Js
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+<a href="https://codeglenn.com" style="width: 50%; max-width: 50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamAgarwal1616&theme=tokyonight&layout=compact&langs_count=8&hide=abap" width="40%"/>
+</a>
